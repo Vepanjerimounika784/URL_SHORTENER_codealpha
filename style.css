@@ -1,0 +1,111 @@
+*{
+    padding:0px 0px;
+    margin: 0px 0px;
+}
+
+body{
+    background-color: aqua;
+}
+
+.main{
+    position: relative;
+    background-color:white;
+    height: 600px;
+    width: 500px;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,50%);
+    border: 5px solid rgb(114, 111, 255);
+    border-radius: 30px;
+}
+
+#longurl{
+    position: relative;
+    top: 20%;
+    left: 10%;
+    height: 40px;
+    width: 296px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: large;
+    font-family:  'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+#shorten{
+    position: relative;
+    top: 20%;
+    left: 12%;
+    height: 40px;
+    width: 80px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    font-family:  'Times New Roman', sans-serif;
+    color: white;
+    background-color: brown;
+}
+
+#shorten:hover{
+    background-color: skyblue;
+}
+
+#shorturl{
+    position: relative;
+    top: 25%;
+    left: 10%;
+    height: 40px;
+    width: 270px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 47px;
+    font-size: large;
+    font-family:  'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+#copy{
+    position: relative;
+    top: 25%;
+    left: 0%;
+    height: 35px;
+    width: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    background-color:green;
+}
+
+#copy:hover{
+    background-color: red;
+}
+
+ .main p{
+   /* background-color: white; */
+    position: relative;
+    top: 10%;
+    left: 10%;
+    height: 60px;
+    width: 400px;
+    font-size: 40px;
+    font-family:  'Times New Roman', sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+ .main h2{
+   /* background-color: white; */
+    position: relative;
+    top: 30%;
+    left: 15%;
+    height: 60px;
+    width: 400px;
+    font-size: 30px;
+    font-family:  'Times New Roman', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
