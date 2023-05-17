@@ -12,7 +12,7 @@ body{
     background-color:white;
     height: 600px;
     width: 500px;
-    top: 10%;
+    top: 5%;
     left: 50%;
     transform: translate(-50%,50%);
     border: 5px solid rgb(114, 111, 255);
