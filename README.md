@@ -7,6 +7,7 @@ URL Shortener Website using simple HTML, CSS, JS and API fetch with no API KEY N
 ## View the Website: 
 https://github.com/Vepanjerimounika784/URL_SHORTENER_codealpha.git
 https://url-shortener-codealpha.vercel.app/
+url-shortener-codealpha-1q1c2qxr4-vepanjerimounika784.vercel.app
 ##logic
 `https://api.shrtco.de/v2/shorten?url=${longURL}`
 await and async keywords are used.
