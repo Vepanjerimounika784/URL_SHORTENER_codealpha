@@ -5,7 +5,7 @@ A URL shortener is a tool that can take a long, complex URL and turn it into a m
 URL Shortener Website using simple HTML, CSS, JS and API fetch with no API KEY Needed. 
 
 ## View the Website: 
-
+https://github.com/Vepanjerimounika784/URL_SHORTENER_codealpha.git
 
 ##logic
 `https://api.shrtco.de/v2/shorten?url=${longURL}`
